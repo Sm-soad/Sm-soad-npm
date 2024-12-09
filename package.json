@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader.git"
+    "url": "https://github.com/Sm-soad/Sm-soad-npm"
   },
   "keywords": [
     "instagram",
@@ -36,14 +36,14 @@
     "capcut",
     "likee",
     "threads",
-    "nayan"
+    "Soad"
   ],
-  "author": "NAYAN",
+  "author": "SOAD",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/issues"
+    "url": "https://github.com/Sm-soad/Sm-soad-npm/soad-media-downloader/issues"
   },
-  "homepage": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader#readme",
+  "homepage": "https://github.com/Sm-soad/Sm-soad-npm/soad-media-downloader#readme",
   "dependencies": {
     "nayan-media-downloader": "^2.6.6"
   },
