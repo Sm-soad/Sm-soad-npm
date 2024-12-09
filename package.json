@@ -38,12 +38,12 @@
     "threads",
     "Soad"
   ],
-  "author": "SOAD",
+  "author": "NAYAN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SM-SOAD/soad-media-downloader/issues"
+    "url": "https://github.com/SM-SOAD/nayan-media-downloader/issues"
   },
-  "homepage": "https://github.com/SM-SOAD/soad-media-downloader#readme",
+  "homepage": "https://github.com/SM-SOAD/nayan-media-downloader#readme",
   "dependencies": {
     "nayan-media-downloader": "^2.6.6"
   },
